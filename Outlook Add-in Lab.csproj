@@ -50,7 +50,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Outlook Add-in LabWeb\Outlook Add-in LabWeb.csproj">
+    <ProjectReference Include="Outlook Add-in LabWeb\Outlook Add-in LabWeb.csproj">
       <Project>{BDDC07B4-644B-4656-9086-6AE1A74AA730}</Project>
       <Name>Outlook Add-in LabWeb</Name>
       <Private>True</Private>
