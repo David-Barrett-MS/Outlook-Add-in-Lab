@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlook Add-in Lab", "Outlook Add-in Lab.csproj", "{F79DDC07-CBF0-42D0-AF4C-389BA8B7A252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlook Add-in LabWeb", "..\Outlook Add-in LabWeb\Outlook Add-in LabWeb.csproj", "{BDDC07B4-644B-4656-9086-6AE1A74AA730}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlook Add-in LabWeb", "Outlook Add-in LabWeb\Outlook Add-in LabWeb.csproj", "{BDDC07B4-644B-4656-9086-6AE1A74AA730}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{8F5E46CD-E750-41F1-97E8-597F9E005A90}"
 	ProjectSection(SolutionItems) = preProject
