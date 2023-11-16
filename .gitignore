@@ -362,6 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-Docs/bin
-Docs/libman.json
-Docs/Web.config
+docs/bin
+docs/libman.json
+docs/Web.config
