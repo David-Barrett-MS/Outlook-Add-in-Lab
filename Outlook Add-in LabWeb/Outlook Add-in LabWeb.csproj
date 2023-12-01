@@ -116,6 +116,8 @@
     <Content Include="MessageRead.html" />
     <Content Include="MessageRead.js" />
     <Content Include="libman.json" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\Publish to Docs.pubxml" />
     <None Include="Scripts\jquery-3.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.1.js" />
     <Content Include="Scripts\jquery-3.7.1.min.js" />
@@ -454,6 +456,12 @@
     <Content Include="Scripts\Office\1\zh-tw\outlook_strings.debug.js" />
     <Content Include="Scripts\Office\1\zh-tw\outlook_strings.js" />
     <Content Include="Scripts\Office\MicrosoftAjax.js" />
+    <Content Include="Taskpane\dialogs\dialog.css" />
+    <Content Include="Taskpane\dialogs\dialog.html" />
+    <Content Include="Taskpane\dialogs\dialog.js" />
+    <Content Include="Taskpane\taskpane.css" />
+    <Content Include="Taskpane\taskpane.html" />
+    <Content Include="Taskpane\taskpane.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

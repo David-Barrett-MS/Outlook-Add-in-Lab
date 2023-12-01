@@ -12,5 +12,5 @@ function statusUpdate(icon, text) {
 }
 
 function defaultStatus(event) {
-  statusUpdate("icon16" , "Hello World!");
+  statusUpdate("icon16" , "Outlook add-in Lab is active");
 }
